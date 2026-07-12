@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-07-12",
+  "repo": "LetMeSolveThat4You/aipox-v3",
+  "commits": [
+    {
+      "hash": "540e647",
+      "date": "2026-07-12",
+      "subject": "fix(theme): dark:-variant volgt de theme-toggle i.p.v. OS"
+    },
+    {
+      "hash": "93cee39",
+      "date": "2026-07-12",
+      "subject": "feat(products): echte product-mockups in de kaarten — theme-aware"
+    },
+    {
+      "hash": "09e0179",
+      "date": "2026-07-12",
+      "subject": "feat(geo): Product- + FAQ-schema + llms.txt"
+    },
+    {
+      "hash": "07535ea",
+      "date": "2026-07-12",
+      "subject": "feat(seo): correctheids-batch — lang/JSON-LD per-locale, hreflang, sameAs, sitemap"
+    },
+    {
+      "hash": "331a243",
+      "date": "2026-07-12",
+      "subject": "feat(design): semantische kleur-utilities aan via @theme inline"
+    },
+    {
+      "hash": "c0a59c3",
+      "date": "2026-07-12",
+      "subject": "fix(i18n): contact 'Bel nu' via i18n-key i.p.v. hardcoded NL"
+    }
+  ]
+}

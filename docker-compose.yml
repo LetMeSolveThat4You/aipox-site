@@ -1,0 +1,21 @@
+services:
+  aipox-v3:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        NEXT_PUBLIC_SITE_URL: https://aipox.nl
+    container_name: aipox-site
+    ports:
+      - "3010:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - HOSTNAME=0.0.0.0
+    restart: unless-stopped
+    networks:
+      - aipox-network
+
+networks:
+  aipox-network:
+    driver: bridge

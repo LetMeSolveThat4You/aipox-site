@@ -1,0 +1,396 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Producten",
+    "howIBuild": "Zo bouw ik",
+    "about": "Over",
+    "contact": "Contact",
+    "navigation": "Navigatie",
+    "mobileNavigationDescription": "Hoofdnavigatie menu voor mobiele apparaten",
+    "acronymReveal": "Wat betekent AiPOX?",
+    "acronymTryMe": "probeer"
+  },
+  "HomePage": {
+    "title": "AiPOX — moderne software, gebouwd met een team dat nooit slaapt",
+    "metaDescription": "AiPOX is Arthur Scheen: ik bouw moderne software die handmatig werk automatiseert — met een team van AI-agents onder eigen regie, en ik deel openlijk hoe. Bekijk de producten.",
+    "tagline": "Ik bouw software die werk uit handen neemt.",
+    "subtitle": "Geen bureau dat uren verkoopt, maar een maker met een eigen productfamilie — gebouwd door een team van AI-agents dat nooit slaapt, onder mijn eigen regie.",
+    "intro": "Ik bouw in het openbaar en ben eerlijk over wat al werkt en wat nog in aanbouw is.",    "description": "IT was voor mij nooit een keuze — het is iets wat ik altijd al deed, uit nieuwsgierigheid en passie.",
+    "authorQuote": "Arthur Scheen",
+    "scrollHint": "Scroll om verder te lezen ↓",    "ctaPrimary": "Bekijk de producten",
+    "ctaSecondary": "Neem contact op",
+    "about": {
+      "title": "Over mij en het bedrijf",
+      "intro": "Mijn naam is Arthur. Als Westlander weet ik: dingen moeten goed, betaalbaar en betrouwbaar zijn.",
+      "passion": {
+        "title": "Van hobby tot passie",
+        "description": "Mijn IT-passie begon in de jaren '90: eerste modems, floppy's, dotcom-bubble. Ik heb techniek zien veranderen en stond er altijd middenin. Wat hobby was, werd mijn vak. Alles wat ik wilde begrijpen, leerde ik zelf. Van hardware tot software, van beheer tot ontwikkeling. Die autodidactische nieuwsgierigheid drijft me nog steeds: blijven ontdekken hoe dingen écht werken."
+      },
+      "experience": {
+        "title": "Praktijkervaring die telt",
+        "description": "Bijna 30 jaar ervaring in sierteelt en AGF — van werkvloer tot management. Ik ken de praktijk van binnenuit. Daardoor verbind ik mens, proces en techniek. Ik begrijp hoe belangrijk continuïteit en betrouwbaarheid zijn in organisaties die elke dag moeten draaien."
+      },
+      "connector": {
+        "title": "Verbinder tussen werelden",
+        "description": "Ik verbind generaties en technologieën. Een been in DOS en diskettes, het andere in AI en automatisering. Dat perspectief helpt: technologie is middel, geen doel. Werk wordt slimmer, eenvoudiger en menselijker. Altijd passend bij jouw situatie — want theorie zonder praktijk is waardeloos.",
+        "strength": "Mijn kracht: breedte en diepte. Brede basis in IT en procesmanagement, diepe sectorkennis van sierteelt en AGF.",
+        "conviction": "Mijn overtuiging: elke organisatie is uniek, maar principes van goede techniek en betrouwbare samenwerking zijn universeel.",
+        "practice": "In de praktijk: van systeembeheer en automatisering tot het bouwen van eigen software die werk uit handen neemt."
+      }
+    },
+    "story": {
+      "label": "Zo bouw ik",
+      "title": "Een team dat nooit slaapt",
+      "lead": "AiPOX was jarenlang letterlijk één persoon met een oneindige lijst. Servers die 's nachts omvielen, een firewall-config die alleen in mijn hoofd bestond. Dat veranderde niet door meer uren te maken, maar door AI-agents als collega's in te richten die het werk echt dragen: systeembeheer, ontwikkeling en product-ownership, 24/7, onder mijn regie.",
+      "points": {
+        "operations": {
+          "title": "Systeembeheer dat zichzelf bewaakt",
+          "desc": "Een gelaagde bewaker houdt dag en nacht het hele platform in de gaten: Proxmox, firewall, netwerk, backups. Hij kent het verschil tussen ruis en een incident, dus niemand tuurt naar een dashboard. Ik krijg een appje als het er echt toe doet, en kan er vanaf mijn telefoon iets tegenaan zeggen."
+        },
+        "development": {
+          "title": "Werk dat gewoon doorloopt",
+          "desc": "Ontwikkelaars werken zelfstandig aan features, elk in hun eigen omgeving. Het saaie, herhaalde, foutgevoelige werk dat vroeger nooit af kwam, gebeurt nu betrouwbaar. Alles staat as-code en is herleidbaar in git, niet in mijn geheugen."
+        },
+        "direction": {
+          "title": "Richting blijft mensenwerk",
+          "desc": "Een product owner bewaakt prioriteiten en denkt mee; de agents stemmen onderling af via een eigen kanaal. Wat overblijft voor mij is het werk dat ertoe doet: kiezen waar tijd en geld heen gaan, en op de juiste momenten de knoop doorhakken."
+        }
+      },
+      "governance": {
+        "title": "Eén grens, zelf getrokken",
+        "desc": "Alles wat intern en omkeerbaar is, een nieuwe VM, een firewallregel, een DNS-record, heeft staande goedkeuring; daar hoeft niemand voor te vragen. Alles wat naar buiten zichtbaar wordt of moeilijk terug te draaien is, zoals een productie-cutover of een wijziging die toegang raakt of geld kost, dat wordt eerst voorgelegd. Dat is kader, daarbinnen zit vrijheid, autonomie en dus snelheid."
+      },
+      "readMore": "Lees hoe ik bouw"
+    },
+    "products": {
+      "title": "De producten",
+      "vincalis": {
+        "name": "Vincalis",
+        "description": "Eén werkplek voor inkopers en hun leveranciers. Sourcing, orders, productie, verzending en kwaliteit komen samen op één plek — met een compleet spoor van wat er gebeurde. Ik bouw het in het openbaar, module voor module.",
+        "status": "In opbouw",
+        "cta": "Bekijk Vincalis",
+        "summary": "Supplier collaboration platform, in opbouw (building in public)",
+        "screenshotAlt": "Schermafbeelding van Vincalis: het dashboard met leveranciers, open orders en leveringen"
+      },
+      "smartdocgen": {
+        "name": "SmartDocGen",
+        "description": "Automatische documentgeneratie zonder programmeren: upload een sjabloon, koppel je data, en genereer facturen, pakbonnen en meer volautomatisch vanuit je systemen.",
+        "status": "Momenteel niet online",
+        "cta": "Meer weten",
+        "summary": "Automatische documentgeneratie zonder programmeren"
+      },
+      "proceshuis": {
+        "name": "Proceshuis",
+        "description": "Grip op processen, risico's én beheersmaatregelen in één bestuurd model. Processtappen, rollen (RASCI), risico's, controls en data hangen samen — met governance en een APQC-benchmark ingebouwd. Voor wie wil aantonen dat-ie in control is.",
+        "status": "Live",
+        "cta": "Bekijk Proceshuis",
+        "summary": "Procesmanagement met risk & control, live",
+        "screenshotAlt": "Schermafbeelding van Proceshuis: de proces-explorer met een activiteit, RASCI-rollen en risico's"
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "Kennis en ervaring",
+    "intro": "Bijna 30 jaar praktijk in productie, handel en logistiek — die kennis bouw ik nu om tot eigen software die het werk automatiseert.",
+    "sectorIntroTitle": "Van teelt tot technologie",
+    "sectorIntro": "Vergankelijkheid, internationale handel, retaildruk en productieplanning vragen om IT die wérkt — elke dag opnieuw. Mijn ervaring in deze keten maakt dat ik snel zie waar processen stroef lopen en hoe techniek dat kan oplossen.",
+    "timelineTitle": "Ervaringstijdlijn",
+    "timeline": {
+      "deVonk": "De vonk!",
+      "support": "Support",
+      "erp": "ERP",
+      "sierteelt": "Sierteelt",
+      "automation": "Automatisering",
+      "philosophy": "Filosofie"
+    },
+    "experience": {
+      "title": "Ervaring & Achtergrond",
+      "youth": {
+        "title": "De vonk!",
+        "summary": "Mijn passie voor IT begon lang voordat ik het zo noemde — uit pure nieuwsgierigheid, experimenteren en een onverzadigbare drang om te begrijpen hoe dingen werken.",
+        "openbsd": "Als kind al was ik druk bezig om met OpenBSD thuis NAT te regelen en firewalling, in een tijd dat we nog werkten met inbelmodems en informatie nog schaars was.",
+        "webdev": "Ik heb mijzelf HTML, PHP, MySQL aangeleerd en aan het einde van mijn jeugd had ik een bedrijfje in websites, met name voor familie, kennissen en vrienden.",
+        "early": {
+          "title": "Het begon nog eerder",
+          "description": "Mijn vader was ondernemer en één van de eersten in onze straat met een computer — in die tijd wist bijna niemand hoe zo’n apparaat precies werkte, ook mijn vader niet. Ik begon ermee te experimenteren en te ontdekken wat ik er allemaal mee kon doen.\n\nIn die dagen, met DOS 5.1 tot en met 6.22, moest je nog de bestanden config.sys en autoexec.bat aanpassen om drivers in het bovenste geheugen te laden en genoeg conventioneel geheugen vrij te maken om bepaalde spellen te kunnen draaien — compleet met een Sound Blaster 16 en het schuiven met IRQ-adressen. Daarna kwamen Windows 3.11 en later Windows 95 — destijds een enorme sprong voorwaarts.\n\nAl snel was ik binnen de familie degene die werd gebeld zodra een computer het niet meer deed, en ik genoot van elk moment. De pc van mijn vader werkte na mijn experimenten niet altijd vlekkeloos, maar ik ging niet slapen voordat hij het weer deed. Die nachtelijke uren hebben me meer geleerd dan welk boek ook — waarschijnlijk het moment waarop mijn passie en talent voor computers echt zijn ontstaan."
+        }
+      },
+      "servicedesk": {
+        "title": "Servicedesk & Support",
+        "description": "Ik heb gewerkt op de servicedesk van Kabelfoon (nu Caiway) en de Bloemen Veiling Holland (nu Royal FloraHolland). Ik weet wat het is om mensen via de telefoon te helpen of bij de werkplek langs te gaan voor het vervangen van hardware en ondersteunen bij software problemen.",
+        "skills": "Ook deed ik daar 1e lijns werk in Active Directory, zoals gebruikers aanmaken, wachtwoorden resetten, groepen toekennen. Wij hebben daar het ITIL certificaat gehaald bij Pink Rokkade. Ik weet hoe het is om klanten te woord te staan die je bloed kunnen drinken (omdat het niet werkt en een VRS systeem wat niet leuk is) en uiteindelijk toch tevreden ophangen."
+      },
+      "rexnord": {
+        "title": "ERP & Systeembeheer",
+        "description": "Ik heb gewerkt als applicatiebeheerder bij Rexnord, waar ik een ERP systeem in de lucht hield Baan L4. Hier zat ook een stukje server beheer bij Unix Solaris destijds."
+      },
+      "sierteelt": {
+        "title": "Sierteelt & VBA Oplossingen",
+        "description": "Later heb ik gewerkt bij diverse Sierteelt bedrijven, waar ik veel VBA oplossingen heb geïmplementeerd of databases heb gemaakt. Voor o.a. het beheer van uitgifte van EAN codes, het generiek maken van een stickerproces en als datapakketjes versturen naar de printroom of leverancier.",
+        "tms": "Later nog veel grotere projecten, zoals het ontwerpen en ontwikkelen van een groot TMS systeem. Waarmee eerst de afdeling transport was geholpen om van een papieren tijger de transitie te maken naar en digitale tijger, met ETL mogelijkheid vanuit het ERP. Overal, continue inzicht, met meetbare resultaten. Processen teruggebracht tot seconden werk.",
+        "modules": "Daar kwam later een module prijsbeheer bij, later aangevuld met allerlei masterdata beheer zodat het meer op zichzelf ging staan. Toen gingen productiesites ermee werken, waardoor inzicht in de voortgang van productie en ook daar meetbare resultaten.",
+        "crm": "Na dit pakket begonnen aan het grootste pakken bij de laatste werkgever. Namelijk een volledige CRM, PLM, Item beheer pakket - ontwikkeld als low-code applicatie, waar ik als productowner en solution architect ervoor heb gezorgd dat er een fundament kwam wat werkt, terwijl ik tegelijkertijd er achter probeerde te komen wat de technische requirements rondom integratie waren, en de functionele requirements van de verschillende bedrijven die ermee moesten gaan werken."
+      },
+      "automation": {
+        "title": "Automatiseerder & Infrastructuur",
+        "description": "In de tussentijd heb ik twee jaar gewerkt bij een automatiseerder — drie dagen per week aan systeembeheer en twee dagen aan softwareontwikkeling. In die periode hielp ik bij de overgang van terminalclients naar volwaardige computers en begeleidde ik vervolgens de transitie naar de cloud met Microsoft 365.",
+        "development": "Naast het systeembeheer werkte ik ook met Crystal Reports voor het toenmalige ERP-systeem Unispecs, dat ik eveneens beheerde. Daarnaast ontwikkelde ik maatwerktoepassingen voor zowel mijn vorige werkgever als voor nieuwe klanten — onder andere een glasfabriek in het oosten van het land en een transportbedrijf dichterbij. Uiteraard beheerde ik binnen het bedrijf zelf ook de technische infrastructuur.",
+        "virtualization": "Ik verving de oude servers — van terminalserver, fileserver, domaincontrollers en mailserver — en zette een nieuw redundant systeem op met virtualisatie. Daarmee werd de single point of failure vrijwel volledig geëlimineerd en ontstond ruimte om te groeien. We hebben gewerkt aan group policies, zodat gebruikers goed én veilig konden werken: gecontroleerde uitrol van updates, slimme installatie van nieuwe werkstations en betere bescherming tegen phishing en spam.",
+        "cloud": "Uiteindelijk hebben we de overstap naar Microsoft 365 voltooid, inclusief bestanden, mailboxen en Active Directory met synchronisatie. Daarbij heb ik een governance­strategie ontwikkeld en nieuwe best practices opgesteld — destijds nog pionierswerk, want O365 stond toen pas aan het begin.",
+        "backup": "Tot slot heb ik de back-upstrategie verbeterd: van lokale back-ups naar Veeam en een volledig geïmplementeerde 3-2-1-strategie, inclusief geteste disaster recovery."
+      },
+      "implementations": {
+        "title": "Software Implementaties",
+        "manualmaster": "Zo heb ik ManualMaster geïmplementeerd, ter ondersteuning van ons KMS. Met digitale formulieren, en processen en werkinstructies.",
+        "sharepoint": "Zo heb ik SharePoint geïmplementeerd, en de site collectie vormgegeven en de bestanden overgepompt en gebruikers getraind.",
+        "erp": "En zo heb ik daar ook 5 jaar lang gewerkt aan en in een ERP programma, waarbij we requirements opzochten, het proces uitplozen en harmoniseerde, configuratie-instellingen vastlegde, masterdata opschoonde, proces en integratietesten uitschreven maar ook uitvoerde.",
+        "powerbi": "Ook heb ik in PowerBI dashboards gemaakt en applicaties gemaakt om data te verzamelen, zoals uitbloei informatie, waarbij metingen werden gedaan door de week en deze data geanalyseerd kon worden door product managers om betere beslissingen te maken.",
+        "reporting": "Zo heb ik ook rapportages gemaakt voor transport, om kwaliteits objectief te kunnen beoordelen, maar ook route prijzen, welke zijn goedkoop, welke duur, wat is gemiddeld en welke steken af. Zo ook voor incidenten, om te kunnen analyseren en bespreken tijdens S&OP, wat heeft plaats gevonden, hoe groot was de kans Risico Profiel Score. Impact x Herhaling x Detectie"
+      }
+    },
+    "philosophy": {
+      "title": "Filosofie & Aanpak",
+      "diplomas": "Diploma's bepalen niet wat iemand waard is. Wat telt: wat je kunt, wat je leert, hoe je dat toepast.",
+      "learning": "Als autodidact leerde ik door te doen — in echte bedrijven, met echte mensen, onder echte druk. Die ervaring weegt zwaarder dan certificaten.",
+      "methodology": "Ik werk volgens Scrum/Agile en Prince2, met veel ervaring in procesmanagement en product ownership. Theorie helpt, maar is nooit doel op zich.",
+      "character": "Kennis helpt vooruit komen, maar karakter bepaalt of je volhoudt. Karakter betekent: verantwoordelijkheid nemen, nieuwsgierig blijven, doen wat goed is — ook als niemand kijkt.",
+      "results": "Bijna dertig jaar praktijk — sierteelt, AGF, productie, ERP — leerde me van binnenuit waar werk vastloopt: handmatig, foutgevoelig, versnipperd. Ik bouwde er transport- en masterdata-systemen voor en ontdekte wat een eigen CRM/PLM écht vergt. Die kennis bouw ik nu, onder AiPOX, om tot eigen producten die dat werk automatiseren — domeinkennis als bewijs, geen klantlogo's."
+    },
+    "brandPromise": "Gebouwd uit de praktijk. Software die werk uit handen neemt. Dat is AiPOX.",
+    "ctaTitle": "Wil je weten wat ik bouw, of ergens over sparren?",
+    "ctaButton": "Neem contact op"
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "intro": "Vragen over een product, of gewoon even sparren?",
+    "description": "Of je nieuwsgierig bent naar wat ik bouw, ergens over wilt meedenken, of een vraag hebt — ik hoor het graag.",
+    "phone": {
+      "title": "Direct bellen of appen",
+      "description": "Voor een korte vraag of even overleggen",
+      "number": "06 135 05918",
+      "cta": "Bel nu"
+    },
+    "email": {
+      "title": "E-mail met onderwerp",
+      "description": "Kies het onderwerp dat het beste past",
+      "choose": "Kies de optie die het beste past",
+      "subjects": {
+        "product": "Over een product",
+        "sparring": "Meedenken of sparren",
+        "general": "Algemene vraag"
+      }
+    },
+    "location": {
+      "title": "Locatie & Bereikbaarheid",
+      "availability": {
+        "title": "Bereikbaarheid",
+        "based": "Gevestigd in het Westland",
+        "channel": "Het liefst per e-mail of WhatsApp",
+        "response": "Reactie meestal binnen één werkdag"
+      }
+    },
+    "company": {
+      "title": "Bedrijfsgegevens",
+      "name": "AiPOX",
+      "location": "'s-Gravenzande, Westland",
+      "kvk": "96879734",
+      "btw": "NL005236353B55"
+    },
+    "tagline": "Slimmer werken begint met begrijpen."
+  },
+  "LegalPage": {
+    "title": "Juridisch",
+    "privacy": {
+      "title": "Privacy",
+      "content": "AiPOX respecteert uw privacy en verwerkt persoonsgegevens conform de AVG. Contactgegevens worden uitsluitend gebruikt voor communicatie met u."
+    },
+    "terms": {
+      "title": "Algemene Voorwaarden",
+      "sections": {
+        "general": {
+          "title": "Algemeen",
+          "content": "Op alle producten en overeenkomsten van AiPOX zijn uitsluitend deze algemene voorwaarden van toepassing. Afwijkende voorwaarden zijn niet van toepassing, tenzij schriftelijk overeengekomen."
+        },
+        "liability": {
+          "title": "Aansprakelijkheid",
+          "content": "De aansprakelijkheid van AiPOX is beperkt tot het bedrag dat door de aansprakelijkheidsverzekering wordt uitgekeerd. Bij ontbreken daarvan is de aansprakelijkheid beperkt tot maximaal het factuurbedrag van de betreffende overeenkomst. AiPOX is niet aansprakelijk voor indirecte schade, gevolgschade, gederfde winst of bedrijfsschade."
+        },
+        "payment": {
+          "title": "Betaling",
+          "content": "Betaling geschiedt binnen 14 dagen na factuurdatum, zonder korting of verrekening. Bij niet tijdige betaling is de klant van rechtswege in verzuim en is AiPOX gerechtigd wettelijke rente en incassokosten in rekening te brengen."
+        },
+        "intellectual": {
+          "title": "Intellectueel eigendom",
+          "content": "Alle door AiPOX ontwikkelde software, documentatie en werkmethoden blijven eigendom van AiPOX, tenzij uitdrukkelijk anders overeengekomen. De klant ontvangt een gebruiksrecht voor het overeengekomen doel."
+        },
+        "confidentiality": {
+          "title": "Geheimhouding",
+          "content": "Beide partijen verplichten zich tot geheimhouding van alle vertrouwelijke informatie. Deze verplichting geldt ook na beëindiging van de overeenkomst."
+        }
+      }
+    },
+    "company": {
+      "title": "Bedrijfsgegevens",
+      "name": "AiPOX",
+      "location": "'s-Gravenzande",
+      "kvk": "96879734",
+      "btw": "NL005236353B55",
+      "labels": {
+        "company": "Bedrijf:",
+        "location": "Locatie:",
+        "kvk": "KvK:",
+        "btw": "BTW:",
+        "contact": "Contact",
+        "email": "info@aipox.nl",
+        "phone": "06 1350 5918"
+      }
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "Alle informatie op deze website is met zorg samengesteld. AiPOX kan echter niet aansprakelijk worden gesteld voor eventuele gevolgen van het gebruik van deze informatie. Prijzen en voorwaarden kunnen zonder voorafgaande kennisgeving worden gewijzigd.",
+      "copyright": "© 2026 AiPOX — Gebouwd door een team dat nooit slaapt."
+    }
+  },
+  "footer": {
+    "tagline": "Gevestigd in het Westland.\nSoftware, in het openbaar gebouwd.",
+    "company": "AiPOX | 's-Gravenzande | KvK: 96879734 | BTW: NL005236353B55",
+    "contact": {
+      "title": "Contact",
+      "email": "info@aipox.nl",
+      "phone": "06 1350 5918"
+    },
+    "social": {
+      "title": "Connect"
+    },
+    "howIBuild": "Zo bouw ik",
+    "links": {
+      "disclaimer": "Disclaimer",
+      "privacy": "Privacy",
+      "terms": "Algemene Voorwaarden"
+    },
+    "copyright": "© 2026 AiPOX — Gebouwd door een team dat nooit slaapt."
+  },
+  "HowIBuild": {
+    "metaTitle": "Zo bouw ik",
+    "metaDescription": "Hoe ik AiPOX bouw: een bestuurde vloot AI-collega's onder eigen regie, alles as-code en herleidbaar in git. Eerlijk over wat werkt en waar de grens ligt.",
+    "label": "Zo bouw ik",
+    "title": "Zo bouw ik",
+    "lead": "Ik run AiPOX in mijn eentje, maar niet alleen. Het werk draagt een bestuurde vloot AI-collega's, onder mijn regie. Deze pagina legt uit hoe dat werkt. Niet als verkooppraatje, maar omdat je volgens mij moet kunnen zien hoe iets gebouwd is voordat je erop vertrouwt.",
+    "introTitle": "Open over de werkwijze",
+    "introBody": "De manier waarop ik bouw is het meest eigen dat AiPOX heeft, dus houd ik het niet achter. Ik deel graag hoe ik dingen aanpak, kosteloos, zodat een ander niet dezelfde maanden hoeft te zoeken die het mij kostte. Dit is een klein begin; de pagina groeit mee met wat ik onderweg leer.",
+    "work": {
+      "title": "Het werk: een bestuurde vloot",
+      "intro": "Het begon met één agent die me hielp met infrastructuur-als-code voor een paar servers. Inmiddels draait er een hele ploeg, elk met een eigen taak, die onderling afstemt via een eigen coördinatiekanaal.",
+      "points": {
+        "operations": {
+          "title": "Systeembeheer",
+          "desc": "Een gelaagde bewaker houdt dag en nacht het platform in de gaten: Proxmox, firewall, netwerk, backups. Hij kent het verschil tussen ruis en een incident, dus niemand tuurt naar een dashboard. Ik krijg een appje als het er echt toe doet en kan er vanaf mijn telefoon iets tegenaan zeggen."
+        },
+        "development": {
+          "title": "Ontwikkeling",
+          "desc": "Ontwikkelaars werken zelfstandig aan features, elk in hun eigen omgeving. Het saaie, herhaalde, foutgevoelige werk dat vroeger nooit af kwam, loopt nu gewoon door. Alles staat as-code en is herleidbaar in git, niet in mijn hoofd."
+        },
+        "direction": {
+          "title": "Product-ownership",
+          "desc": "Een product owner bewaakt prioriteiten en denkt mee over richting. Wat voor mij overblijft is het werk dat ertoe doet: kiezen waar tijd en geld heen gaan, en op de juiste momenten de knoop doorhakken."
+        }
+      }
+    },
+    "governance": {
+      "title": "Eén grens, zelf getrokken",
+      "desc": "Het interessante is niet dat ik loslaat, maar hoe. Alles wat intern en omkeerbaar is, een nieuwe VM, een firewallregel, een DNS-record, heeft staande goedkeuring; daar hoeft niemand voor te vragen. Alles wat naar buiten zichtbaar wordt of moeilijk terug te draaien is, zoals een productie-cutover of een wijziging die mijn eigen toegang raakt, bekijk ik eerst zelf. Niet uit wantrouwen, maar omdat ik weet waar de pijn zit als iets misgaat."
+    },
+    "receipts": {
+      "title": "Wat er écht is",
+      "intro": "Geen klantlogo's, geen cijfers die ik niet kan onderbouwen. Wel dit:",
+      "items": {
+        "thisSite": {
+          "title": "Deze site",
+          "desc": "De pagina die je nu leest is op precies deze manier gebouwd, taak voor taak, door dezelfde ploeg. Wat je ziet is het bewijs zelf."
+        },
+        "git": {
+          "title": "Alles as-code",
+          "desc": "Infrastructuur, deploys en wijzigingen liggen vast in git. Elke stap is terug te lezen in de commit-historie, in plaats van in mijn geheugen. Dat maakt 'herleidbaar' geen belofte maar een eigenschap."
+        },
+        "homelab": {
+          "title": "Een echt platform",
+          "desc": "Het draait niet in een demo. Thuis staat een server met 14 cores en 128 GB ECC-geheugen, waarop zo'n vijftien containers en VM's draaien, met een UniFi-netwerk en een OPNsense-firewall. Daar leer ik het meest, en daar test ik alles op voordat het ergens anders komt."
+        }
+      },
+      "limits": {
+        "title": "Waar de grens ligt",
+        "desc": "Ik doe niet alsof de agents alles kunnen. Ze bepalen geen richting, en soms gaat er iets mis. Juist daarom bestaat die ene grens en kijk ik zelf mee op de momenten die ertoe doen. Eerlijk zijn over wat af is en wat in aanbouw is, blijft het uitgangspunt."
+      }
+    },
+    "built": {
+      "title": "Zo is dit gebouwd",
+      "intro": "Het blok hierboven vertelt hoe ik werk. Dit blok laat het git-spoor eronder zien. Elk item is een echte taak uit de bouw van deze site, of uit de producten waar dezelfde vloot aan werkt, en de meeste eindigen in een concrete commit; de hash staat erbij als bewijs.",
+      "sourceNote": "Alles hier komt rechtstreeks uit mijn eigen werk-administratie: git-historie, de backlog, de rol-documenten. Geen klantnamen, geen cijfers die ik niet kan onderbouwen.",
+      "viewCommit": "Bekijk commit {hash} op GitHub",
+      "stories": {
+        "mobileBug": {
+          "title": "Een bug die je alleen op een telefoon zag",
+          "body": "Ik opende de site op mijn telefoon en de productkaarten waren stuk. De ene knipte z'n eigen inhoud af, de andere was leeg met alleen een zwevende knop erin. Op mijn laptop zag alles er prima uit. Ik gaf het symptoom aan een agent, die de pagina in een headless browser reproduceerde en liet zien dat het helemaal geen layout-bug was. De glaskaarten gebruiken een backdrop-filter, en op mobiele GPU's bleef dat filter de geanimeerde blur erachter opnieuw bemonsteren, waardoor de kaart nooit schoon werd samengesteld. De fix haalt de blur alleen op touch-apparaten weg en houdt het glas op desktop, in één keer toegepast via een gedeelde hook zodat elke kaart op de site in één wijziging is gedekt. Wat het aankaartte was een mens op een echte telefoon. Wat de GPU-hertekenkwestie in minuten tot de kern terugbracht, was de agent."
+        },
+        "designSystem": {
+          "title": "Een knop repareren legde een dood design system bloot",
+          "body": "De call-to-action-knoppen zagen er flets uit en verdwenen bijna in dark mode. Ik vroeg om een styling-fix. De agent ging een laag dieper en vond de echte oorzaak: dit is een Tailwind v4-project waar de @theme-mapping ontbrak, dus elke semantische kleur-utility op de site zond stilletjes helemaal geen CSS uit. Het merkblauw overleefde alleen waar iemand het met de hand had geschreven. Dat is een veel grotere vondst dan een knop, en het aanzetten zou de kleur op elke pagina tegelijk verschuiven, dus liet ik het niet op de automatische piloot live gaan. Ik keek ernaar, keurde het goed, en één blok bracht het AiPOX-blauw overal terug. Voordat het live ging is het gecontroleerd tegen zo'n veertig voor-en-na-screenshots, elke pagina in beide talen, licht en donker, met het contrast opnieuw gemeten om op WCAG AA te blijven."
+        },
+        "adviceFirst": {
+          "title": "Eerst advies, dan de fix",
+          "body": "Ik wilde dat de SEO van de site echt goed was, dus stelde ik een concrete vraag: moet de gestructureerde data op de Engelse pagina's in het Nederlands of het Engels? Het antwoord kwam terug als advies, niet als een stille wijziging. Engels op /en, want Nederlandse gestructureerde data helpt daar niet bij de vindbaarheid, met een geprioriteerde lijst van wat er verder zwak was. Ik las het, was het ermee eens, en gaf de profiel-links door. Pas daarna ging het werk erin: taal-tags en JSON-LD per locale, hreflang en canonicals, de geverifieerde profielen, een gegenereerde sitemap. Het zorgvuldig doen bracht twee sluimerende bugs boven die niets met de vraag te maken hadden. Een locale die undefined bleef, waardoor /en stilletjes terugviel op Nederlands en z'n eigen taal-tags brak, en een type-mismatch die de productie-build brak. Allebei in dezelfde ronde gefixt. Dat is het ritme dat ik vastgelegd wil hebben: de vloot adviseert, ik beslis, dan wordt het gebouwd."
+        },
+        "vincalis": {
+          "title": "Vincalis leverde in z'n eentje een middag werk",
+          "body": "Vincalis is een B2B-supply-chain-platform dat ik bouw. Op één middag kreeg de codebase zeventien commits; op dezelfde dag werden zestien pull requests geopend en vijftien beoordeeld en gemerged. Ik heb er bijna niets van met de hand geschreven. Het werk werd gedaan door een kleine vloot, een product owner-agent en drie ontwikkelaars, en elke commit en PR draagt hun co-author-regel, dus het auteurschap staat in git in plaats van dat je het op geloof moet aannemen. De PO-agent schreef niet alleen code: twee van de commits zijn hem die de vloot aanstuurt, een sprint oppakt en inactieve ontwikkel-hosts opnieuw op de volgende werkvoorraad richt. Eén review-ronde liep langs acht aparte invalshoeken, en drie daarvan kwamen onafhankelijk op hetzelfde defect uit: het verbreden van één gedeeld type zou een ongeldige waarde langs de validatie hebben laten glippen en de database met een 500 laten crashen in plaats van een nette 400 terug te geven. De agents vonden het, fixten het, voegden een regressietest toe en verifieerden het tegen een live-omgeving voordat het werd gemerged. De ploeg ging snel. Het enige dat wachtte, was mijn goedkeuring.",
+          "meta": "17 commits · 16 PR's · ~5,5u · 2026-07-11"
+        },
+        "ci": {
+          "title": "De bottleneck was niet de AI, maar de leidingen",
+          "body": "De laatste tijd werkte de vloot de resterende backlog weg in een reeks sprints, en dat ging goed. De verrassing zat in waar het plafond eigenlijk lag. Niet bij de modellen. Bij de infrastructuur. De CI-pipeline bleef in de weg zitten, en het loskrijgen ervan werd een echte puzzel die met slimmer prompten niet op te lossen was. Uiteindelijk was er hardware voor nodig: mijn systeembeheer-agent, ops-01, vroeg om extra SSD's en andere Proxmox-instellingen. Toen dat er eenmaal was, liep de pipeline eindelijk schoon, en schoot de doorvoer omhoog. Het werk kwam eruit in twee aparte wekelijkse pieken, ruwweg één grote duw per week, elk een stapel pull requests en issues die in korte tijd werden afgerond. Wat ik het mooist vind, is de terughoudendheid. De vloot doseert zichzelf tegen een wekelijks token-budget, houdt het eigen verbruik bij, en als hij vóór op schema loopt zet hij zichzelf op pauze in plaats van het budget erdoorheen te jagen. Je kunt dat live zien gebeuren in het token-kanaal van Townhall. Snel als de leidingen het toelaten, en gedisciplineerd genoeg om zichzelf te stoppen.",
+          "meta": "2 wekelijkse pieken · CI vlotgetrokken door ops-01"
+        }
+      },
+      "feed": {
+        "title": "Recent uitgeleverd",
+        "intro": "De laatste wijzigingen aan deze site, rechtstreeks uit git. Een momentopname die bij de build wordt gemaakt en bij elke deploy ververst.",
+        "empty": "Nu even geen recente commits om te tonen.",
+        "viewAll": "Bekijk de volledige historie op GitHub"
+      },
+      "townhall": {
+        "title": "Townhall: waar de vloot afstemt",
+        "body": "Al dat heen-en-weer loopt via Townhall, een kleine dienst die ik bouwde om de bus te zijn waarop de agents praten. Het is een append-only set kanalen waar de product owner en de ontwikkelaars status posten, reviews overdragen en elkaar bij naam aanspreken, met een webweergave zodat ik live kan meekijken in plaats van door logs te graven. Het deel dat ertoe doet is de human-gate. Alles met echte gevolgen wordt een escalatie met een expliciete status en komt bij mij terecht als een Approve-, Reject- of Need-plan-beslissing, in plaats van een bericht dat voorbijscrolt. Dat is die ene grens die ik trek, letterlijk gemaakt: de vloot stemt zichzelf af, en de keuzes die ik niet wil delegeren stoppen bij mij.",
+        "caption": "Het live Townhall-bord: ontwikkel-agents die posten in #reviews, en de human-gate-escalaties die ik goed- of afkeur.",
+        "captionClaims": "Het #town-hall-kanaal: agents die zelf hun tickets uit de sprint-wachtrij oppakken.",
+        "captionTokens": "Het #token-usage-kanaal: de vloot die zichzelf doseert tegen een wekelijks token-budget en pauzeert als hij vóór loopt."
+      }
+    },
+    "closing": {
+      "title": "Liever resultaat dan buzzwords",
+      "desc": "Het gaat me niet om 'AI-powered', maar om werk dat betrouwbaar gebeurt en tijd vrijspeelt voor de dingen die ertoe doen. Wil je zien wat dat oplevert?",
+      "ctaProducts": "Bekijk de producten",
+      "ctaContact": "Neem contact op"
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "items": {
+        "q1": {
+          "question": "Wat is AiPOX?",
+          "answer": "AiPOX is Arthur Scheen — een eenmanszaak die moderne software bouwt die handmatig werk automatiseert, met een bestuurd team van AI-agents onder eigen regie. Geen bureau dat uren verkoopt, maar een maker met een eigen productfamilie (Vincalis, SmartDocGen, Proceshuis), gebouwd in het openbaar."
+        },
+        "q2": {
+          "question": "Wie is Arthur Scheen?",
+          "answer": "De maker achter AiPOX. Bijna 30 jaar praktijk in sierteelt, AGF en ERP leerde hem van binnenuit waar werk vastloopt; die kennis bouwt hij nu om tot eigen software. Autodidact, bouwt in avond- en weekenduren, en deelt openlijk hoe."
+        },
+        "q3": {
+          "question": "Hoe werkt 'een team dat nooit slaapt'?",
+          "answer": "Arthur richt AI-agents in als collega's — systeembeheer, ontwikkeling en product-ownership — die 24/7 het werk dragen, onder zijn regie. Alles staat as-code en is herleidbaar in git. Eén grens, zelf getrokken: omkeerbaar werk loopt door; wat naar buiten zichtbaar wordt of z'n eigen toegang raakt, bekijkt hij eerst zelf."
+        },
+        "q4": {
+          "question": "Welke producten maakt AiPOX?",
+          "answer": "Vincalis — supplier collaboration platform, in opbouw (building in public). Proceshuis — procesmanagement met risk & control, live op bpm.aipox.nl. SmartDocGen — automatische documentgeneratie zonder programmeren, momenteel niet online."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "routes": [
+    { "key": "home", "href": "/", "icon": "home" },
+    { "key": "products", "href": "/#producten", "icon": "products" },
+    { "key": "howIBuild", "href": "/how-i-build", "icon": "about" },
+    {
+      "key": "about",
+      "href": "/about",
+      "icon": "about",
+      "children": [
+        { "key": "de-vonk", "href": "/about#de-vonk", "labelKey": "timeline.deVonk" },
+        { "key": "support", "href": "/about#support", "labelKey": "timeline.support" },
+        { "key": "erp", "href": "/about#erp", "labelKey": "timeline.erp" },
+        { "key": "sierteelt", "href": "/about#sierteelt", "labelKey": "timeline.sierteelt" },
+        { "key": "automation", "href": "/about#automatisering", "labelKey": "timeline.automation" },
+        { "key": "philosophy", "href": "/about#filosofie", "labelKey": "timeline.philosophy" }
+      ]
+    },
+    { "key": "contact", "href": "/contact", "icon": "contact" }
+  ]
+}

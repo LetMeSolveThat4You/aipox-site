@@ -1,0 +1,128 @@
+{
+  "nl": {
+    "A": [
+      "Arthur",
+      "Artificial",
+      "Automation",
+      "All-round", 
+      "Analyse",
+      "Aanpasbaar",
+      "Agile",
+      "Advanced",
+      "Accurate",
+      "Adaptive"
+    ],
+    "I": [
+      "IT",
+      "Intelligent", 
+      "Intelligence",
+      "Innovatief",
+      "Impactvol",
+      "Interactive",
+      "Intuitive",
+      "Integration",
+      "Implementation",
+      "Insight"
+    ],
+    "P": [
+      "Programming",
+      "Process",
+      "Praktisch",
+      "Performance", 
+      "Problem-solving",
+      "Partner",
+      "Precision",
+      "Progressive",
+      "Productive",
+      "Professional"
+    ],
+    "O": [
+      "Ontwikkeling",
+      "Ontwerpen",
+      "Onderzoek",
+      "Optimalisatie",
+      "Organisatie",
+      "Optimization",
+      "Operational",
+      "Outstanding",
+      "Objective",
+      "Original"
+    ],
+    "X": [
+      "eXecution",
+      "eXperience", 
+      "eXpertise",
+      "eXcellence",
+      "eXcel",
+      "eXpand",
+      "eXtraordinary",
+      "eXplore",
+      "eXact",
+      "eXceptional",
+      "eXponential"
+    ]
+  },
+  "en": {
+    "A": [
+      "Arthur",
+      "Artificial",
+      "Automation",
+      "All-round",
+      "Analysis", 
+      "Adaptable",
+      "Agile",
+      "Advanced",
+      "Accurate",
+      "Adaptive"
+    ],
+    "I": [
+      "IT",
+      "Intelligent",
+      "Intelligence",
+      "Innovative", 
+      "Impactful",
+      "Interactive",
+      "Intuitive",
+      "Integration",
+      "Implementation",
+      "Insight"
+    ],
+    "P": [
+      "Programming",
+      "Process",
+      "Practical",
+      "Performance",
+      "Problem-solving",
+      "Partner",
+      "Precision",
+      "Progressive", 
+      "Productive",
+      "Professional"
+    ],
+    "O": [
+      "Development",
+      "Design",
+      "Research",
+      "Optimization",
+      "Organization",
+      "Operational",
+      "Outstanding",
+      "Objective",
+      "Original",
+      "Organized"
+    ],
+    "X": [
+      "eXecution",
+      "eXperience",
+      "eXpertise", 
+      "eXcellence",
+      "eXcel",
+      "eXpand",
+      "eXtraordinary",
+      "eXplore",
+      "eXact",
+      "eXceptional",
+      "eXponentieel"
+    ]
+  }
+}

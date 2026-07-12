@@ -1,0 +1,42 @@
+{
+  "extends": ["stylelint-config-standard"],
+  "rules": {
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": ["tailwind", "apply", "variants", "responsive", "screen", "layer"]
+      }
+    ],
+    "function-no-unknown": [
+      true,
+      {
+        "ignoreFunctions": ["theme", "screen"]
+      }
+    ],
+    "selector-pseudo-class-no-unknown": [
+      true,
+      {
+        "ignorePseudoClasses": ["global"]
+      }
+    ],
+    "property-no-unknown": [
+      true,
+      {
+        "ignoreProperties": ["composes"]
+      }
+    ],
+    "declaration-block-trailing-semicolon": null,
+    "no-descending-specificity": null,
+    "color-function-notation": "legacy",
+    "alpha-value-notation": "number",
+    "hue-degree-notation": "number",
+    "color-function-alias-notation": "legacy",
+    "keyframes-name-pattern": null,
+    "no-invalid-position-at-import-rule": null,
+    "import-notation": null,
+    "custom-property-empty-line-before": null,
+    "rule-empty-line-before": null,
+    "property-no-vendor-prefix": null,
+    "media-feature-range-notation": "prefix"
+  }
+}

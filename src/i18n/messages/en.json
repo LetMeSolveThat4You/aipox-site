@@ -1,0 +1,395 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "howIBuild": "How I build",
+    "about": "About",
+    "contact": "Contact",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "navigation": "Navigation",
+    "mobileNavigationDescription": "Main menu for mobile devices",
+    "acronymReveal": "What does AiPOX mean?",
+    "acronymTryMe": "try me"
+  },
+  "HomePage": {
+    "title": "AiPOX — modern software, built by a team that never sleeps",
+    "metaDescription": "AiPOX is Arthur Scheen: I build modern software that automates manual work — with a team of AI agents under my own direction, and I share openly how. See the products.",
+    "tagline": "I build software that takes work off your hands.",
+    "subtitle": "Not an agency selling hours, but a maker with a product family of my own — built by a team of AI agents that never sleeps, under my own direction.",
+    "intro": "I build in the open and stay honest about what already works and what's still in progress.",    "description": "What started as curiosity grew into a career where technology, logic and continuous improvement form the common thread.",
+    "authorQuote": "Arthur Scheen",
+    "scrollHint": "Scroll to discover ↓",    "ctaPrimary": "See the products",
+    "ctaSecondary": "Get in touch",
+    "about": {
+      "title": "About me and the company",
+      "intro": "My name is Arthur. As a Westlander, I know: things must be good, affordable and reliable.",
+      "passion": {
+        "title": "From hobby to passion",
+        "description": "My IT passion began in the '90s: first modems, floppies, dotcom bubble. I've seen technology change and was always right in the middle of it. What was a hobby became my profession. Everything I wanted to understand, I taught myself. From hardware to software — from system management to development.. That autodidactic curiosity still drives me: keep discovering how things really work."
+      },
+      "experience": {
+        "title": "Practical experience that counts",
+        "description": "Nearly 30 years in horticulture and fresh produce — from the shop floor to management level. I know the operations from the inside out. This allows me to connect people, process and technology. I understand how important continuity and reliability are in organizations that must operate every day."
+      },
+      "connector": {
+        "title": "Connector between worlds",
+        "description": "I connect generations and technologies. One foot in DOS and diskettes, the other in AI and automation. That perspective helps: technology is a means, not an end. Work becomes smarter, simpler, and more human. Always fitting your situation — because theory without practice is worthless.",
+        "strength": "My strength: breadth and depth. Broad foundation in IT and process management, deep sector knowledge of horticulture and fresh produce.",
+        "conviction": "My conviction: every organization is unique, but principles of good technology and reliable cooperation are universal.",
+        "practice": "In practice: from systems administration and automation to building software of my own that takes work off your hands."
+      }
+    },
+    "story": {
+      "label": "How I build",
+      "title": "A team that never sleeps",
+      "lead": "For years, AiPOX was quite literally one person with an endless list. Servers falling over at night, a firewall config that only existed in my head. That didn't change by working more hours, but by setting up AI agents as colleagues that genuinely carry the work: system administration, development and product ownership, around the clock, under my direction.",
+      "points": {
+        "operations": {
+          "title": "Systems that watch themselves",
+          "desc": "A tiered guard keeps an eye on the whole platform day and night: Proxmox, firewall, network, backups. It knows the difference between noise and an incident, so no one stares at a dashboard. I get a message when it genuinely matters, and can respond straight from my phone."
+        },
+        "development": {
+          "title": "Work that simply keeps going",
+          "desc": "Developers work on features independently, each in their own environment. The dull, repetitive, error-prone work that never used to get finished now happens reliably. Everything is as-code and traceable in git, not in my memory."
+        },
+        "direction": {
+          "title": "Direction stays human",
+          "desc": "A product owner guards priorities and thinks along; the agents coordinate through a channel of their own. What's left for me is the work that matters: deciding where time and money go, and calling the shot at the right moments."
+        }
+      },
+      "governance": {
+        "title": "One line, drawn by me",
+        "desc": "Anything internal and reversible, a new VM, a firewall rule, a DNS record, has standing approval; no one has to ask. Anything that becomes visible to the outside world or is hard to undo, like a production cutover or a change that touches access or costs money, is reviewed first. That's the frame; within it there's freedom, autonomy, and therefore speed."
+      },
+      "readMore": "Read how I build"
+    },
+    "products": {
+      "title": "The products",
+      "vincalis": {
+        "name": "Vincalis",
+        "description": "One shared workspace for buyers and their suppliers. Sourcing, orders, production, shipping and quality in one place — with a full trail of what happened. Built in the open, module by module.",
+        "status": "In progress",
+        "cta": "See Vincalis",
+        "summary": "Supplier collaboration platform, building in public",
+        "screenshotAlt": "Screenshot of Vincalis: the dashboard with suppliers, open orders and deliveries"
+      },
+      "smartdocgen": {
+        "name": "SmartDocGen",
+        "description": "Automated document generation without programming: upload a template, map your data, and generate invoices, packing slips and more straight from your systems.",
+        "status": "Currently offline",
+        "cta": "Learn more",
+        "summary": "Automated document generation without programming"
+      },
+      "proceshuis": {
+        "name": "Proceshuis",
+        "description": "A grip on processes, risks and controls in one governed model. Process steps, roles (RASCI), risks, controls and data all connected — with governance and an APQC benchmark built in. For teams that want to prove they're in control.",
+        "status": "Live",
+        "cta": "See Proceshuis",
+        "summary": "Process management with risk & control, live",
+        "screenshotAlt": "Screenshot of Proceshuis: the process explorer with an activity, RASCI roles and risks"
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "Knowledge and experience",
+    "intro": "Nearly 30 years of hands-on practice in production, trade and logistics — today I turn that knowledge into software of my own that automates the work.",
+    "sectorIntroTitle": "From cultivation to technology",
+    "sectorIntro": "Perishable products, international trade, retail pressure and production planning demand IT that works — day in, day out. My experience across this chain lets me quickly spot where processes stall and how technology can fix them.",
+    "timelineTitle": "Experience timeline",
+    "timeline": {
+      "deVonk": "The Spark!",
+      "support": "Support",
+      "erp": "ERP",
+      "sierteelt": "Horticulture",
+      "automation": "Automation",
+      "philosophy": "Philosophy"
+    },
+    "experience": {
+      "title": "Experience & Background",
+      "youth": {
+        "title": "The Spark!",
+        "summary": "My passion for IT began long before I ever called it that — driven by pure curiosity, experimentation, and an insatiable urge to understand how things work.",
+        "openbsd": "As a child, I was already tinkering with OpenBSD at home — setting up NAT and firewalling in a time when we still used dial-up modems and information was scarce.",
+        "webdev": "I taught myself HTML, PHP, and MySQL, and by the end of my teenage years I ran a small web design business — mostly for family, friends, and acquaintances.",
+        "early": {
+          "title": "It all started even earlier",
+          "description": "My father was an entrepreneur and one of the first in our street to own a computer — back then, hardly anyone knew how such a machine really worked, including my father. I began experimenting and exploring what else I could make it do.\n\nIn those days, with DOS 5.1 through 6.22, you still had to edit config.sys and autoexec.bat to load drivers into upper memory and free up enough conventional memory just to run certain games — complete with a Sound Blaster 16 and juggling IRQ addresses. Then came Windows 3.11, and later Windows 95 — a huge leap forward at the time.\n\nI quickly became the go-to person in the family whenever someone’s computer stopped working, and I loved every minute of it. My father’s PC didn’t always work perfectly after my experiments, but I wouldn’t go to bed until I had fixed it again. Those late nights taught me more than any book could — probably the moment when my passion and talent for computers truly began."
+        }
+      },
+      "servicedesk": {
+        "title": "Service desk & Support",
+        "description": "I worked on the service desk of Kabelfoon (now Caiway) and the Flower Auction Holland (now Royal FloraHolland). I know what it's like to help people over the phone or visit workplaces to replace hardware and support software problems.",
+        "skills": "I also did 1st line work in Active Directory, such as creating users, resetting passwords, assigning groups. We obtained the ITIL certificate at Pink Rokkade. I know what it's like to deal with customers who could drink your blood (because it doesn't work and a VRS system that isn't pleasant) and still hang up satisfied."
+      },
+      "rexnord": {
+        "title": "ERP & System Management",
+        "description": "I worked as an application administrator at Rexnord, where I maintained an ERP system Baan L4. This also included some server management with Unix Solaris at the time."
+      },
+      "sierteelt": {
+        "title": "Horticulture & VBA Solutions",
+        "description": "Later I worked at various horticulture companies, where I implemented many VBA solutions or created databases. For example, managing the distribution of EAN codes, making a sticker process generic and sending data packages to the print room or supplier.",
+        "tms": "Later much larger projects, such as designing and developing a large TMS system. With which the transport department was first helped to make the transition from a paper tiger to a digital tiger, with ETL capability from the ERP. Everywhere, continuous insight, with measurable results. Processes reduced to seconds of work.",
+        "modules": "Later a price management module was added, later supplemented with all kinds of master data management so that it became more self-contained. Then production sites started working with it, providing insight into production progress and also measurable results there.",
+        "crm": "After this package, we started on the largest package at my last employer. Namely a complete CRM, PLM, Item management package - developed as a low-code application, where as product owner and solution architect I ensured that there was a foundation that works, while at the same time I tried to figure out what the technical requirements around integration were, and the functional requirements of the various companies that had to work with it."
+      },
+      "automation": {
+        "title": "Automation & Infrastructure",
+        "description": "During this period, I worked for two years at an automation company — three days a week on system administration and two days on software development. In that time, I helped transition from terminal clients to full desktop computers and later guided the move to the cloud with Microsoft 365.",
+        "development": "In addition to system administration, I also worked with Crystal Reports for the ERP system Unispecs, which I managed as well. I developed custom applications for both my previous employer and new clients — including a glass factory in the east of the country and a nearby transport company. Of course, I also maintained the technical infrastructure within the company itself.",
+        "virtualization": "I replaced the old servers — terminal server, file server, domain controllers and mail server — and set up a new redundant environment with virtualization. This almost completely eliminated the single point of failure and created room to grow. We implemented group policies so users could work efficiently and securely: controlled rollout of updates, smart deployment of new workstations, and better protection against phishing and spam.",
+        "cloud": "Eventually, we completed the transition to Microsoft 365, including files, mailboxes and Active Directory with synchronization. I developed a governance strategy and new best practices — true pioneering at the time, since O365 was still in its early days.",
+        "backup": "Finally, I improved the backup strategy: from local backups to Veeam and a fully implemented 3-2-1 strategy, including tested disaster recovery."
+      },
+      "implementations": {
+        "title": "Software Implementations",
+        "manualmaster": "I implemented ManualMaster, in support of our KMS. With digital forms, and processes and work instructions.",
+        "sharepoint": "I implemented SharePoint, and designed the site collection and pumped over the files and trained users.",
+        "erp": "And I also worked for 5 years on and in an ERP program, where we looked up requirements, explored and harmonized the process, recorded configuration settings, cleaned up master data, wrote process and integration tests but also executed them.",
+        "powerbi": "I also created dashboards in PowerBI and made applications to collect data, such as bloom information, where measurements were made during the week and this data could be analyzed by product managers to make better decisions.",
+        "reporting": "I also made reports for transport, to be able to assess quality objectively, but also route prices, which are cheap, which expensive, what is average and which stand out. Also for incidents, to be able to analyze and discuss during S&OP, what took place, how big was the chance Risk Profile Score. Impact x Repetition x Detection"
+      }
+    },
+    "brandPromise": "Built from real-world practice. Software that takes work off your hands. That's AiPOX.",    "philosophy": {
+      "title": "Philosophy & Approach",
+      "diplomas": "Diplomas don't determine what someone is worth. What counts: what you can do, what you learn, how you apply it.",
+      "learning": "As a self-taught person, I learned by doing — in real companies, with real people, under real pressure. That experience weighs heavier than certificates.",
+      "methodology": "I work according to Scrum/Agile and Prince2, with extensive experience in process management and product ownership. Theory helps, but is never an end in itself.",
+      "character": "Knowledge helps you progress, but character determines whether you persevere. Character means: taking responsibility, staying curious, doing what's right — even when nobody's watching.",
+      "results": "Nearly thirty years of practice — horticulture, fresh produce, production, ERP — taught me from the inside where work stalls: manual, error-prone, fragmented. I built transport and master-data systems for it, and learned what a proper CRM/PLM really takes. Today I turn that knowledge, under AiPOX, into products of my own that automate that work — domain expertise as proof, not client logos."    },    "ctaTitle": "Want to see what I'm building, or spar on an idea?",
+    "ctaButton": "Get in touch"
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "intro": "Questions about a product, or just want to spar?",
+    "description": "Whether you're curious about what I build, want to think something through, or have a question — I'd love to hear from you.",
+    "phone": {
+      "title": "Call or message directly",
+      "description": "For a quick question or a chat",
+      "number": "06 135 05918",
+      "cta": "Call now"
+    },
+    "email": {
+      "title": "Email with subject",
+      "description": "Choose the subject that fits best",
+      "choose": "Choose the option that fits best",
+      "subjects": {
+        "product": "About a product",
+        "sparring": "Thinking along or sparring",
+        "general": "General question"
+      }
+    },
+    "location": {
+      "title": "Location & Availability",
+      "availability": {
+        "title": "Availability",
+        "based": "Based in the Westland",
+        "channel": "Preferably by email or WhatsApp",
+        "response": "Usually a reply within one business day"
+      }
+    },
+    "company": {
+      "title": "Company Information",
+      "name": "AiPOX",
+      "location": "'s-Gravenzande, Westland",
+      "kvk": "96879734",
+      "btw": "NL005236353B55"
+    },
+    "tagline": "Smarter working starts with understanding."
+  },
+  "LegalPage": {
+    "title": "Legal",
+    "privacy": {
+      "title": "Privacy",
+      "content": "AiPOX respects your privacy and processes personal data in accordance with GDPR. Contact details are only used to communicate with you."
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "sections": {
+        "general": {
+          "title": "General",
+          "content": "These general terms and conditions exclusively apply to all products and agreements by AiPOX. Deviating conditions do not apply unless agreed in writing."
+        },
+        "liability": {
+          "title": "Liability",
+          "content": "AiPOX's liability is limited to the amount paid out by liability insurance. In the absence thereof, liability is limited to a maximum of the invoice amount of the relevant agreement. AiPOX is not liable for indirect damage, consequential damage, lost profits or business damage."
+        },
+        "payment": {
+          "title": "Payment",
+          "content": "Payment is made within 14 days of the invoice date, without discount or offset. In case of late payment, the customer is in default by operation of law and AiPOX is entitled to charge statutory interest and collection costs."
+        },
+        "intellectual": {
+          "title": "Intellectual Property",
+          "content": "All software, documentation and working methods developed by AiPOX remain the property of AiPOX, unless expressly agreed otherwise. The customer receives a right of use for the agreed purpose."
+        },
+        "confidentiality": {
+          "title": "Confidentiality",
+          "content": "Both parties commit to confidentiality of all confidential information. This obligation also applies after termination of the agreement."
+        }
+      }
+    },
+    "company": {
+      "title": "Company Details",
+      "name": "AiPOX",
+      "location": "'s-Gravenzande",
+      "kvk": "96879734",
+      "btw": "NL005236353B55",
+      "labels": {
+        "company": "Company:",
+        "location": "Location:",
+        "kvk": "Chamber of Commerce:",
+        "btw": "VAT:",
+        "contact": "Contact",
+        "email": "info@aipox.nl",
+        "phone": "06 1350 5918"
+      }
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "All information on this website has been compiled with care. However, AiPOX cannot be held liable for any consequences of using this information. Prices and conditions may be changed without prior notice.",
+      "copyright": "© 2026 AiPOX — Built by a team that never sleeps."
+    }
+  },
+  "footer": {
+    "tagline": "Based in Westland.\nSoftware, built in the open.",
+    "company": "AiPOX | 's-Gravenzande | Chamber of Commerce: 96879734 | VAT: NL005236353B55",
+    "contact": {
+      "title": "Contact",
+      "email": "info@aipox.nl",
+      "phone": "06 1350 5918"
+    },
+    "social": {
+      "title": "Connect"
+    },
+    "howIBuild": "How I build",
+    "links": {
+      "disclaimer": "Disclaimer",
+      "privacy": "Privacy",
+      "terms": "Terms & Conditions"
+    },
+    "copyright": "© 2026 AiPOX — Built by a team that never sleeps."
+  },
+  "HowIBuild": {
+    "metaTitle": "How I build",
+    "metaDescription": "How I build AiPOX: a directed fleet of AI colleagues under my own direction, everything as-code and traceable in git. Honest about what works and where the line is.",
+    "label": "How I build",
+    "title": "How I build",
+    "lead": "I run AiPOX on my own, but not alone. The work is carried by a directed fleet of AI colleagues, under my direction. This page explains how that works. Not as a sales pitch, but because I think you should be able to see how something is built before you trust it.",
+    "introTitle": "Open about the way I work",
+    "introBody": "The way I build is the most distinctive thing AiPOX has, so I don't keep it hidden. I'm happy to share how I approach things, free of charge, so someone else doesn't have to spend the same months of searching it cost me. This is a small start; the page grows with what I learn along the way.",
+    "work": {
+      "title": "The work: a directed fleet",
+      "intro": "It started with a single agent that helped me with infrastructure-as-code for a few servers. Today there's a whole crew, each with its own job, coordinating through a channel of their own.",
+      "points": {
+        "operations": {
+          "title": "System administration",
+          "desc": "A tiered guard keeps an eye on the platform day and night: Proxmox, firewall, network, backups. It knows the difference between noise and an incident, so no one stares at a dashboard. I get a message when it genuinely matters and can respond straight from my phone."
+        },
+        "development": {
+          "title": "Development",
+          "desc": "Developers work on features independently, each in their own environment. The dull, repetitive, error-prone work that never used to get finished now simply keeps going. Everything is as-code and traceable in git, not in my head."
+        },
+        "direction": {
+          "title": "Product ownership",
+          "desc": "A product owner guards priorities and thinks along about direction. What's left for me is the work that matters: deciding where time and money go, and calling the shot at the right moments."
+        }
+      }
+    },
+    "governance": {
+      "title": "One line, drawn by me",
+      "desc": "The interesting part isn't that I let go, but how. Anything internal and reversible, a new VM, a firewall rule, a DNS record, has standing approval; no one has to ask. Anything that becomes visible to the outside world or is hard to undo, like a production cutover or a change that touches my own access, I review first. Not out of distrust, but because I know where the pain is when something goes wrong."
+    },
+    "receipts": {
+      "title": "What's actually there",
+      "intro": "No client logos, no numbers I can't back up. But this:",
+      "items": {
+        "thisSite": {
+          "title": "This site",
+          "desc": "The page you're reading was built in exactly this way, task by task, by the same crew. What you see is the proof itself."
+        },
+        "git": {
+          "title": "Everything as-code",
+          "desc": "Infrastructure, deploys and changes are fixed in git. Every step can be read back in the commit history, rather than in my memory. That makes 'traceable' a property, not a promise."
+        },
+        "homelab": {
+          "title": "A real platform",
+          "desc": "This doesn't run in a demo. At home there's a server with 14 cores and 128 GB of ECC memory, running around fifteen containers and VMs, with a UniFi network and an OPNsense firewall. That's where I learn the most, and where I test everything before it goes anywhere else."
+        }
+      },
+      "limits": {
+        "title": "Where the line is",
+        "desc": "I don't pretend the agents can do everything. They don't set direction, and sometimes something goes wrong. That's exactly why that one line exists and why I look over things myself at the moments that matter. Being honest about what's finished and what's still being built stays the starting point."
+      }
+    },
+    "built": {
+      "title": "How this got built",
+      "intro": "The section above tells you how I work. This one shows the git trail underneath it. Each item is a real task from this site's own build, or from the products the same fleet works on, and most of them end in a specific commit — the hash is shown as proof.",
+      "sourceNote": "Everything here comes straight from my own working records: git history, the backlog, the role docs. No client names, no numbers I can't defend.",
+      "viewCommit": "View commit {hash} on GitHub",
+      "stories": {
+        "mobileBug": {
+          "title": "A bug you could only see on a phone",
+          "body": "I opened the site on my phone and the product cards were broken. One clipped its own content; another rendered blank with a lone button floating in it. On my laptop everything looked fine. I handed the symptom to an agent, which reproduced the page in a headless browser and showed it wasn't a layout bug at all. The glass cards use a backdrop-filter, and on mobile GPUs that filter kept re-sampling the animated blur behind them, so the card never composited cleanly. The fix drops the blur on touch devices only and keeps the glass on desktop, applied once through a shared hook so it covers every card on the site in a single change. The thing that flagged it was a human on a real phone. The thing that root-caused a GPU repaint quirk in minutes was the agent."
+        },
+        "designSystem": {
+          "title": "Fixing a button uncovered a dead design system",
+          "body": "The call-to-action buttons looked washed out and nearly vanished in dark mode. I asked for a styling fix. The agent went a layer deeper and found the real cause: this is a Tailwind v4 project that was missing its @theme mapping, so every semantic colour utility on the site was quietly emitting no CSS at all. The brand blue only survived where someone had hand-written it. That is a far bigger finding than a button, and switching it on would shift colour across every page at once, so I didn't let it ship on autopilot. I looked at it, approved it, and one block brought the AiPOX blue back everywhere. Before it went live it was checked against roughly forty before-and-after screenshots, every page in both languages, light and dark, with the contrast re-measured to stay at WCAG AA."
+        },
+        "adviceFirst": {
+          "title": "Advice first, then the fix",
+          "body": "I wanted the site's SEO to be genuinely good, so I asked a specific question: should the structured data on the English pages be in Dutch or English? The answer came back as advice, not a silent edit. English on /en, because Dutch structured data there doesn't help discovery, with a prioritised list of what else was weak. I read it, agreed, and handed over the profile links. Only then did the work go in: per-locale language tags and JSON-LD, hreflang and canonicals, the verified profiles, a generated sitemap. Doing it carefully surfaced two latent bugs that had nothing to do with the request. A locale left undefined, so /en was silently falling back to Dutch and breaking its own language tags, and a type mismatch breaking the production build. Both fixed in the same pass. That is the rhythm I want on the record: the fleet advises, I decide, then it gets built."
+        },
+        "vincalis": {
+          "title": "Vincalis shipped an afternoon's work on its own",
+          "body": "Vincalis is a B2B supply-chain platform I'm building. In one afternoon its codebase took seventeen commits; across the same day sixteen pull requests were opened and fifteen were reviewed and merged. I hand-wrote almost none of it. The work was done by a small fleet, a product owner agent and three developers, and every commit and PR carries their co-author trailer, so the authorship sits in git rather than being something you have to take on faith. The PO agent wasn't only writing code: two of the commits are it running the fleet, lifting a sprint and re-pointing idle developer hosts at the next queue of work. One review pass ran eight separate angles, and three of them landed independently on the same defect: widening one shared type would have let an invalid value slip past validation and crash the database with a 500 instead of returning a clean 400. The agents found it, fixed it, added a regression test, and verified it against a live environment before it merged. The team moved fast. The one thing that waited was my approval.",
+          "meta": "17 commits · 16 PRs · ~5.5h · 2026-07-11"
+        },
+        "ci": {
+          "title": "The bottleneck wasn't the AI, it was the plumbing",
+          "body": "Lately the fleet worked through the remaining backlog in a run of sprints, and it went well. The surprise was where the ceiling actually sat. It wasn't the models. It was the infrastructure. The CI pipeline kept getting in the way, and unblocking it turned into a genuine puzzle that no amount of cleverer prompting would solve. In the end it needed hardware: my sysadmin agent, ops-01, called for extra SSDs and different Proxmox settings. Once that landed, the pipeline finally ran clean, and the throughput jumped. The work came out in two separate weekly bursts, roughly one big push a week, each a stack of pull requests and issues closed in a short window. The part I like most is the restraint. The fleet paces itself against a weekly token budget, tracks its own usage, and when it runs ahead of pace it pauses itself rather than burn through the budget. You can watch that happen live in Townhall's token channel. Fast when the plumbing allows it, and disciplined enough to stop itself.",
+          "meta": "2 weekly bursts · CI unblocked by ops-01"
+        }
+      },
+      "feed": {
+        "title": "Recently shipped",
+        "intro": "The latest changes to this site, straight from git. A snapshot taken at build time and refreshed on every deploy.",
+        "empty": "No recent commits to show right now.",
+        "viewAll": "See the full history on GitHub"
+      },
+      "townhall": {
+        "title": "Townhall: where the fleet coordinates",
+        "body": "All of that back-and-forth runs through Townhall, a small service I built to be the bus the agents talk on. It is an append-only set of channels where the product owner and the developers post status, hand off reviews, and address each other by name, with a web view so I can watch it live instead of digging through logs. The part that matters is the human gate. Anything with real consequences becomes an escalation with an explicit state and lands in front of me as an Approve, Reject or Need-plan decision, rather than a message that scrolls past. That is the one line I draw, made literal: the fleet coordinates itself, and the calls I don't want to delegate stop at me.",
+        "caption": "The live Townhall board: developer agents posting to #reviews, and the human-gate escalations I approve or reject.",
+        "captionClaims": "The #town-hall channel: agents claiming their own tickets from the sprint queue.",
+        "captionTokens": "The #token-usage channel: the fleet pacing itself against a weekly token budget, pausing when it runs ahead."
+      }
+    },
+    "closing": {
+      "title": "Outcome over buzzwords",
+      "desc": "This isn't about being 'AI-powered'; it's about work that happens reliably and frees up time for the things that matter. Want to see what that produces?",
+      "ctaProducts": "See the products",
+      "ctaContact": "Get in touch"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": {
+        "q1": {
+          "question": "What is AiPOX?",
+          "answer": "AiPOX is Arthur Scheen — a one-person company building modern software that automates manual work, with a directed team of AI agents under his own direction. Not an agency selling hours, but a maker with a product family of his own (Vincalis, SmartDocGen, Proceshuis), built in the open."
+        },
+        "q2": {
+          "question": "Who is Arthur Scheen?",
+          "answer": "The maker behind AiPOX. Nearly 30 years in horticulture, fresh produce and ERP taught him from the inside where work stalls; he now turns that knowledge into software of his own. Self-taught, building in evenings and weekends, and open about how."
+        },
+        "q3": {
+          "question": "How does 'a team that never sleeps' work?",
+          "answer": "Arthur sets up AI agents as colleagues — systems administration, development and product ownership — that carry the work around the clock, under his direction. Everything is as-code and traceable in git. One line, drawn by himself: reversible work runs on its own; anything that becomes externally visible or touches his own access, he reviews first."
+        },
+        "q4": {
+          "question": "Which products does AiPOX make?",
+          "answer": "Vincalis — a supplier collaboration platform, building in public. Proceshuis — process management with risk & control, live at bpm.aipox.nl. SmartDocGen — automatic document generation without programming, currently offline."
+        }
+      }
+    }
+  }
+}

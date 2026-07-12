@@ -1,0 +1,17 @@
+# AiPOX
+> AiPOX is Arthur Scheen: modern software that automates manual work, built with a directed team of AI agents under his own direction, in the open.
+
+## Pages
+- [How I build](https://aipox.nl/en/how-i-build): the directed-AI-agent method — everything as-code and traceable in git, with one self-drawn line for work that becomes externally visible or touches his own access
+- [About](https://aipox.nl/en/about): Arthur's background — nearly 30 years in horticulture, fresh produce and ERP, now turned into products of his own
+- [Contact](https://aipox.nl/en/contact): get in touch with Arthur
+
+## Products
+- [Vincalis](https://vincalis.com): supplier collaboration platform for buyers and their suppliers, building in public
+- [Proceshuis](https://bpm.aipox.nl): process management with risk & control (RASCI, controls, APQC benchmark), live
+- SmartDocGen: automatic document generation without programming, currently offline (no public URL)
+
+## Notes
+- One-person company (eenmanszaak), based in 's-Gravenzande, Netherlands
+- Bilingual site: Dutch (default) at https://aipox.nl/nl and English at https://aipox.nl/en
+- No agency, no hours sold — a maker with a product family, building in the open

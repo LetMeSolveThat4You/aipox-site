@@ -1,0 +1,13 @@
+node_modules
+.next
+dist
+out
+build
+public/**/*.avif
+public/**/*.webp
+public/**/*.jpg
+public/**/*.png
+coverage
+docs/internationalization/**
+backup/**
+*.lock
