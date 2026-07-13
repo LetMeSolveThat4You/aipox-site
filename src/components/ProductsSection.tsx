@@ -140,7 +140,7 @@ export default async function ProductsSection({ locale }: Props) {
             </Card>
           </article>
 
-          {/* Proceshuis — eigen IP, live (bpm.aipox.nl) */}
+          {/* Proceshuis — eigen IP, live (proceshuis.com) */}
           <article aria-label={`${t('proceshuis.name')}: ${t('proceshuis.summary')}`}>
             <Card className="flex h-full flex-col border-border/50 bg-gradient-to-br from-card/80 to-card/40 backdrop-blur-md shadow-xl">
               <MockupFrame
@@ -164,7 +164,7 @@ export default async function ProductsSection({ locale }: Props) {
                 </p>
                 <div className="mt-auto pt-4">
                   <Button asChild variant="outline" size="sm">
-                    <a href="https://bpm.aipox.nl" target="_blank" rel="noopener noreferrer">
+                    <a href="https://proceshuis.com" target="_blank" rel="noopener noreferrer">
                       {t('proceshuis.cta')}
                       <ExternalLink aria-hidden />
                     </a>

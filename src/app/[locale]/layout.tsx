@@ -79,7 +79,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       'https://www.linkedin.com/company/aipox/',
       'https://github.com/LetMeSolveThat4You',
       'https://vincalis.com',
-      'https://bpm.aipox.nl',
+      'https://proceshuis.com',
     ],
     founder: {
       name: 'Arthur Scheen',

@@ -8,7 +8,7 @@
 
 ## Products
 - [Vincalis](https://vincalis.com): supplier collaboration platform for buyers and their suppliers, building in public
-- [Proceshuis](https://bpm.aipox.nl): process management with risk & control (RASCI, controls, APQC benchmark), live
+- [Proceshuis](https://proceshuis.com): process management with risk & control (RASCI, controls, APQC benchmark), live
 - SmartDocGen: automatic document generation without programming, currently offline (no public URL)
 
 ## Notes

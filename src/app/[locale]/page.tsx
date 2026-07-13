@@ -38,7 +38,7 @@ export default async function HomePage({ params }: Props) {
       name: t('products.proceshuis.name'),
       description: t('products.proceshuis.description'),
       status: t('products.proceshuis.status'),
-      url: 'https://bpm.aipox.nl',
+      url: 'https://proceshuis.com',
     },
   ]);
 
