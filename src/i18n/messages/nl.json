@@ -326,6 +326,11 @@
       "title": "Zo is dit gebouwd",
       "intro": "Het blok hierboven vertelt hoe ik werk. Dit blok laat het git-spoor eronder zien. Elk item is een echte taak uit de bouw van deze site, of uit de producten waar dezelfde vloot aan werkt, en de meeste eindigen in een concrete commit; de hash staat erbij als bewijs.",
       "sourceNote": "Alles hier komt rechtstreeks uit mijn eigen werk-administratie: git-historie, de backlog, de rol-documenten. Geen klantnamen, geen cijfers die ik niet kan onderbouwen.",
+      "source": {
+        "title": "De broncode is openbaar",
+        "body": "Deze hele site staat publiek op GitHub — precies de code die je nu bekijkt. Kloon 'm, lees mee, of kijk hoe het in elkaar zit.",
+        "cta": "Bekijk de broncode"
+      },
       "viewCommit": "Bekijk commit {hash} op GitHub",
       "stories": {
         "mobileBug": {

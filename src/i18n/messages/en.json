@@ -325,6 +325,11 @@
       "title": "How this got built",
       "intro": "The section above tells you how I work. This one shows the git trail underneath it. Each item is a real task from this site's own build, or from the products the same fleet works on, and most of them end in a specific commit — the hash is shown as proof.",
       "sourceNote": "Everything here comes straight from my own working records: git history, the backlog, the role docs. No client names, no numbers I can't defend.",
+      "source": {
+        "title": "The source is public",
+        "body": "This whole site is public on GitHub — the exact code you're looking at now. Clone it, read along, or see how it fits together.",
+        "cta": "View the source"
+      },
       "viewCommit": "View commit {hash} on GitHub",
       "stories": {
         "mobileBug": {

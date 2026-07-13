@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { getTranslations, getMessages } from 'next-intl/server';
-import { GitCommitHorizontal, GitBranch } from 'lucide-react';
+import { GitCommitHorizontal, GitBranch, Github } from 'lucide-react';
 import { Link } from '@/navigation';
 import { pageMeta, faqJsonLd } from '@/lib/seo';
 import { buildAlternates } from '@/lib/meta';
@@ -349,6 +349,30 @@ export default async function HowIBuildPage({ params }: Props) {
               ))}
             </div>
           </div>
+
+          {/* De tastbaarste build-in-the-open-receipt: de privé werk-repo blijft
+              privé (vandaar de de-linkte hashes hierboven), maar de broncode van
+              déze site staat volledig open. Echte externe link. */}
+          <Card variant="glass" className="mx-auto mt-14 max-w-3xl">
+            <CardContent className="flex flex-col items-center gap-5 py-8 text-center sm:flex-row sm:justify-between sm:gap-8 sm:text-left">
+              <div>
+                <h3 className="text-lg font-semibold tracking-tight text-primary">
+                  {t('built.source.title')}
+                </h3>
+                <P className="mt-1 text-sm">{t('built.source.body')}</P>
+              </div>
+              <Button asChild size="lg" variant="outline" className="shrink-0 font-medium">
+                <a
+                  href="https://github.com/LetMeSolveThat4You/aipox-site"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <Github aria-hidden className="mr-2 size-4" />
+                  {t('built.source.cta')}
+                </a>
+              </Button>
+            </CardContent>
+          </Card>
         </section>
 
         {/* FAQ — zichtbare, citeerbare Q&A (GEO-signaal) + FAQPage JSON-LD.
